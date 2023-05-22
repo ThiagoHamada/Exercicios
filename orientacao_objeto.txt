@@ -1,0 +1,11 @@
+é um conceito fundamental pra programacao, pra ter mais organizacao e eficienciana estruturacao.
+
+Podemos Ter varios objetos, e cada um deles, ter sua caracteristica. e entre esses outros objetos elas podem se interagir.
+
+uma das principais vantagens da orientacao a objeto, ;e que podemos ter a capacidade de reutilizar o codigo. criando as classes.
+Com isso nao precisamos ficar criando o mesmo codigo repetidamente.
+As classes é como um modelo pra criacao de objeto, elas definem quais caracteristicas e comportamentos um objeto terá.
+
+Em resumo, a orientação a objetos é uma forma de programação que nos permite organizar e estruturar nossos programas em objetos que possuem características (atributos) e
+comportamentos (métodos) específicos.
+ Essa abordagem facilita a reutilização de código e torna nossos programas mais organizados, flexíveis e fáceis de entender.
