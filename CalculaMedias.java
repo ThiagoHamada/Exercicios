@@ -1,3 +1,4 @@
+//Exercicio02
 public class CalculaMedias {
     public static void main(String[] args) {
 
